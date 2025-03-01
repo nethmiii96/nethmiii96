@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakshilaaa&label=Profile%20views&color=0e75b6&style=flat" alt="thakshilaaa" /> </p>
 
-- I am an undergraduate  **BSc (Hons) in Information Technology Specializing in Software Engineering in the University of SLIIT**
+- I am an undergraduate in **BSc (Hons) in Information Technology Specializing in Software Engineering in the University of SLIIT**
 
 - 🌱 I’m currently learning **Software Engineering**
+
+- This is my University git hub so connect me with my personal account [https://github.com/thakshilaaa](https://github.com/thakshilaaa)
 
 - 📫 How to reach me **nethmi2126@gmail.com**
 
